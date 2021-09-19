@@ -6,3 +6,4 @@ Descripción del proyecto: Somos un equipo de desarrolladores cuyo objetivo es l
 Presentación de los integrantes del equipo
 
 Hola mi nombre es ----, tengo --- años, soy --- profesión---, mis intereses son ---
+Hola mi nombre es Bryan Castellanos, tengo 29 años, soy Contador público. He trabajado con proyectos de consultoría SAP como sonsultor funcional, allí estaba en contacto con los desarrolladores y ahora espero ser uno de ellos.
