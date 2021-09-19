@@ -6,3 +6,5 @@ Descripción del proyecto: Somos un equipo de desarrolladores cuyo objetivo es l
 Presentación de los integrantes del equipo
 
 Hola mi nombre es ----, tengo --- años, soy --- profesión---, mis intereses son ---
+
+Hola, mi nombre es Andrés Felipe Motta Rojas, tengo 19 años, soy estudiante activo de Ingeniería Electrónica de octavo semestre, mis intereses son aprender lo máximo posible acerca de programación en los diferentes lenguajes para lograr ser un profesional integro y me pueda desenvolver en las diferentes áreas.
